@@ -1,13 +1,30 @@
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
+```diff
 ### Olá, Eu sou o Odali Araújo ✌
 
 - 🔭 Trabalhando com redes e front-end
 - 🌱 Estudando Ciencia da computação
+```
+------
 
-<div>
-  <a href="https://github.com/OdaliID">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OdaliID&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdaliID&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">
+<h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
+<div style="display: flex; align-items: center; justify-content: center;">
+
+[![](https://github-readme-stats.vercel.app/api?username=odaliid&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/odaliid)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=odaliid&theme=tokyonight&hide_border=true)](https://github.com/odaliid)
+
 </div>
+</div>
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=odaliid&style=flat-square)
+
+</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
