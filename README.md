@@ -76,8 +76,6 @@
 <img align="right" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" />
 
 **Programming**
 
