@@ -17,6 +17,7 @@
 
 [![](https://github-readme-stats-phi-liard.vercel.app/api?username=odaliid&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/odaliid)
 [![](https://github-readme-stats-phi-liard.vercel.app/api/top-langs/?username=odaliid&layout=compact&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/odaliid)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=odaliid&theme=tokyonight&hide_border=true)](https://github.com/odaliid)
 
 </div>
 </div>
