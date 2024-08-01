@@ -53,21 +53,6 @@
   📆 2018/2 - 2024/1
   📍 **Lutheran University Center of Palmas** - Palmas, Brazil
 
-## Experience
-
-
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white" />
-
-- 👨‍💻 **IT Support**
-  📆 abr/2022 - Dez/2023
-  📍 **Agência Tocantinense de saneamento** - Palmas/TO, Brazil
 ## Skills
 
 <img align="right" src="https://img.shields.io/badge/MERN-61DAFB?logo=mongodb&logoColor=white" />
